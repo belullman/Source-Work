@@ -1,6 +1,6 @@
 /*
 Exercise File for Week 1 Source, see Week1.txt for details
-WHAT THE FUCK
+WHAT THE FUCK :(
 */
 
 /*
